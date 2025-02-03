@@ -1,0 +1,1 @@
+This repository demonstrates a common HTML error related to unclosed or mismatched tags when using innerHTML to dynamically add content to the DOM.  The 'bug.html' file contains the problematic code, while 'solution.html' provides a corrected version.
